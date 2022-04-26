@@ -1,9 +1,9 @@
 # Artificial-Intelligence-Machine-Learning
 
-Clone the directory <br/>
-Open the terminal <br/>
-Set the current directory <br/>
-Run `python decisiontree.py`
+1. Clone the directory <br/>
+2. Open the terminal <br/>
+3. Set the current directory <br/>
+4. Run `python decisiontree.py`
 
 The output will show:
 
